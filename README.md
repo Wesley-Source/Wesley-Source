@@ -1,21 +1,21 @@
-# Olá, eu sou Wesley! 
+# Hello, I'm Wesley!
 
-## Sobre mim
-Sou um programador apaixonado(a) por [seus interesses principais]. Atualmente, estou [trabalhando/estudando] em [local/instituição].
+## About me
+I'm a programmer passionate about Web Development.
 
-###  Aprendendo
-- Desenvolvimento Web Fullstack
+### Learning
+- Fullstack Web Development
 - Go
 - JavaScript
 
-###  Habilidades técnicas
-- Linguagens de programação: Go, Python, GDScript
+### Technical skills
+- Programming languages: Go, Python, GDScript
 - Frameworks: Go Fiber
-- Ferramentas: HTML, HTMX, UnoCSS
+- Tools: HTML, HTMX, UnoCSS
 
-###  Contatos:
+### Contacts:
 - Discord: wesley-source
 - E-Mail: wcdev.business@proton.me
 
-###  Estatísticas do GitHub
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
+### GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
