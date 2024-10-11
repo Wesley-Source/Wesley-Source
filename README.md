@@ -13,10 +13,7 @@ Sou um programador apaixonado(a) por [seus interesses principais]. Atualmente, e
 - Frameworks: Go Fiber
 - Ferramentas: HTML, HTMX, UnoCSS
 
-###  Como me encontrar
-- [LinkedIn](seu_link_do_linkedin)
-- [Twitter](seu_link_do_twitter)
-- [Blog/Website](seu_link_do_blog_ou_website)
+###  Contatos:
+- [Discord]wesley-source
 
-###  Estatísticas do GitHub
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
