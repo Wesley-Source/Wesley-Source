@@ -3,7 +3,7 @@
 ## Sobre mim
 Sou um programador apaixonado(a) por [seus interesses principais]. Atualmente, estou [trabalhando/estudando] em [local/instituição].
 
-###  Atualmente estou aprendendo
+###  Aprendendo
 - Desenvolvimento Web Fullstack
 - Go
 - JavaScript
@@ -14,6 +14,8 @@ Sou um programador apaixonado(a) por [seus interesses principais]. Atualmente, e
 - Ferramentas: HTML, HTMX, UnoCSS
 
 ###  Contatos:
-- [Discord]wesley-source
+- Discord: wesley-source
+- E-Mail: wcdev.business@proton.me
 
-(https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
+###  Estatísticas do GitHub
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
