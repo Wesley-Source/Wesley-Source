@@ -16,6 +16,3 @@ I'm a programmer passionate about Web Development.
 ### Contacts:
 - Discord: wesley-source
 - E-Mail: wcdev.business@proton.me
-
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesley-Source&show_icons=true&theme=radical)
