@@ -10,8 +10,8 @@ I'm a programmer passionate about Web and Game Development.
 ### Technical skills
 - Godot
 - Programming languages: Go, Python, GDScript
-- Frameworks: Go Fiber
-- Tools: HTML, HTMX, UnoCSS
+- Frameworks: Go Fiber, SvelteKit
+- Tools: HTML, HTMX, UnoCSS, Tailwind, Bootstrap
 
 ### Contacts:
 - Discord: wesley-source
