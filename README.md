@@ -1,18 +1,27 @@
-# Hello, I'm Wesley!
+# Wesley Carlos Nascimento
 
-## About me
-I'm a programmer passionate about Web and Game Development.
+23yo software engineer student (ECT/UFRN, Brazil) building automation infrastructure and AI-agent tooling.
 
-### Learning
-- Fullstack Web Development
-- JavaScript
+**What I work with:** Python (automation, anti-bot scraping, MCP servers, CLI tools) · TypeScript · Godot
 
-### Technical skills
-- Godot
-- Programming languages: Go, Python, GDScript
-- Frameworks: Go Fiber, SvelteKit
-- Tools: HTML, HTMX, UnoCSS, Tailwind, Bootstrap
+## Featured projects
 
-### Contacts:
-- Discord: wesley-source
-- E-Mail: wcdev.business@proton.me
+- **[ponytail-opencode-v2](https://github.com/Wesley-Source/ponytail-opencode-v2)** — Port of the Ponytail "lazy senior dev" plugin to the OpenCode V2 plugin API
+- **[graphify-opencode](https://github.com/Wesley-Source/graphify-opencode)** — OpenCode V2 plugin that pairs knowledge graphs with AI agents (reminds them to query the graph before grepping)
+- **[versatile-mobile-joystick](https://github.com/Wesley-Source/versatile-mobile-joystick)** — Open-source joystick addon for Godot 4.x (26⭐)
+- **[Gmail-MCP-Server](https://github.com/Wesley-Source/Gmail-MCP-Server)** — MCP server for Gmail integration
+
+## Currently
+
+- Building a multi-panel automation hub (Python, 150+ tests, MCP + CLI) — private
+- Studying Mandarin 🇨🇳
+- Open to remote work and collaborations
+
+## Contact
+
+- Email: wesleycarlos831@gmail.com
+- LinkedIn: [add link]
+
+<!--
+Stack: Python | FastAPI | Playwright/Camoufox | curl_cffi | MCP | SQLite | Typer | Svelte | Godot
+-->
