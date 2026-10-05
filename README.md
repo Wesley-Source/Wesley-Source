@@ -1,6 +1,6 @@
 # Wesley Carlos Nascimento
 
-23yo software engineer student (ECT/UFRN, Brazil) building automation infrastructure and AI-agent tooling.
+22yo software engineering student (ECT/UFRN, Brazil) building automation infrastructure and AI-agent tooling.
 
 **What I work with:** Python (automation, anti-bot scraping, MCP servers, CLI tools) · TypeScript · Godot
 
@@ -13,13 +13,13 @@
 
 ## Currently
 
-- Building a multi-panel automation hub (Python, 150+ tests, MCP + CLI) — private
+- Building [camoufox-automations](https://github.com/Wesley-Source/camoufox-automations) — a production-grade stealth browser-automation hub (Python, 200+ tests across framework + private panel repos, MCP + CLI)
 - Studying Mandarin 🇨🇳
 - Open to remote work and collaborations
 
 ## Contact
 
-- Email: wesleycarlos831@gmail.com
+- Email: wcdev.business@proton.me
 - LinkedIn: [add link]
 
 <!--
